@@ -1,3 +1,11 @@
+/**
+ * Name: Paintbrush Bookmarklet
+ * Date: April 29, 2015
+ * Author: Chris Gimas
+ * Version: NaN
+ * Description: If this matters to you, you haven't read the README. You should go do that.
+ */
+
 var mouse = {x: 0, y: 0};
 
 var cV;
