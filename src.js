@@ -68,5 +68,3 @@ function init() {
 }
 
 init()
-
-// This comment down here was made so GitHub would let me update the commit change text
